@@ -6,11 +6,14 @@ mindmap
     id[Rules]
       Creation
       Maintenance
-      id[Releasing]
-        Changelog
-        Release process
-        Backporting
       Plugins
+    id[Release]
+      Changelog
+      Release procedure
+      Backporting
+    id[Security]
+      Security tracker
+      Triaging reports
     id[Tools]
       crs-toolchain
         regex-assembly
@@ -26,13 +29,13 @@ mindmap
       Slack
       GH Issues
       StackOverflow
-	  Twitter
+      Twitter/X
     id[Testing]
       Rules Testing
       Testing Schema
       Quantitative
       Performance
-	  DoS testing
+      DoS Testing
     id[Infrastructure]
       Updates (renovatebot)
       GitHub Actions
@@ -47,30 +50,27 @@ mindmap
         OpenResty Frontend
         Challenges
         Docker Compose
-    id[Security]
-      Security tracker
-      Triaging reports
     id[Project]
-      2 Monthly meetings
+      Bi-Monthly meetings
       Developer Engagement
-      Meeting archive
-	  Reimbursements
+      Reimbursements
     id[Documentation]
       Website Blogs (coreruleset.org)
       Documentation (coreruleset.org/docs)
       OWASP Website (owasp.org/www-project-modsecurity-core-rule-set)
+      Meeting archives
     id[Community Relationship]
       Sponsors
       Engines
       OWASP Projects
       OWASP HQ
-    id[Public Relations]
-	  Blog Posts
-	  Social Media
     id[Retreat]
       Projects
       Knowledge Transfer
       Team Activities
+    id[Public Relations]
+      Blog Posts
+      Social Media
     id[Research]
       CVEs (Seaweed)
       Status Page
