@@ -1,6 +1,4 @@
-# CRS Organization
-
-CRS is an umbrella project. This is what we do:
+# CRS is an umbrella project
 
 ```mermaid
 mindmap
@@ -8,7 +6,7 @@ mindmap
     id[Rules]
       Creation
       Maintenance
-      Releasing
+      id[Releasing]
         Changelog
         Release process
         Backporting
@@ -28,7 +26,7 @@ mindmap
       Slack
       GH Issues
       StackOverflow
-	  X/Twitter
+	  Twitter
     id[Testing]
       Rules Testing
       Testing Schema
